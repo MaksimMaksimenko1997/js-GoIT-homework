@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaxaKozin/goit-js/tree/master/goit-js-hw-12.git"
+    "url": "git+https://github.com/MaksimMaksimenko1997/js-GoIT-homework"
   },
   "keywords": [],
-  "author": "Maxim Kozin <maxa.kozin@gmail.com>",
+  "author": "MaksimMaksimenko1997 <sumrakkuybim@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/MaxaKozin/goit-js/tree/master/goit-js-hw-12",
+  "homepage": "https://github.com/MaksimMaksimenko1997/js-GoIT-homework",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
